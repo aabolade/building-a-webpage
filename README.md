@@ -7,4 +7,6 @@ Exercise to practice HTML and CSS skills by building up a simple Webpage. You ca
 
 Screenshot
 ==========
-![alt tag](file:///Users/lekeabolade/Documents/MakersAcademy/buildingAWebPage/speakers.html)
+
+![alt tag](./assets/images/screenshots/homepage-header.png)
+![alt tag](./assets/images/screenshots/homepage-footer.png)
